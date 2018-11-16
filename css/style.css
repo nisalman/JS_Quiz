@@ -1,0 +1,47 @@
+body{
+    background: #ff7976;
+    color: black;
+    font-family: 'Bangla', sans-serif;
+    font-size: 20px;
+}
+#container{
+    width: 60%;
+    background:#59ff92;
+    margin: 20px auto;
+    overflow: auto;
+    padding: 25px;
+}
+header{
+    text-align: center;
+    border-bottom: aliceblue dashed 1px;
+}
+header h1{
+    margin: 0;
+    padding: 0;
+}
+header p{
+    padding: 0;
+    margin-top: 5px;
+}
+section{
+
+}
+footer{
+    text-align: center;
+}
+input[type='submit']{
+    background:cornflowerblue;
+    border: 0;
+    color: azure;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+#result h3{
+    background: #ff7976;
+    padding: 10px;
+    margin: 10px 0;
+}
+#result span{
+    color: black;
+    font-weight: bold;
+}
